@@ -111,3 +111,10 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Theme
+theme_config:
+  creative_commons:
+    license: by-nc-sa
+    sidebar: true
+    post: true
