@@ -28,7 +28,7 @@ Python 基础课，科班出身基本不用听闭着眼睛就能 HD。如果是�
 `COMP9417 Machine Learning & Data Mining (💩) (ADK)`
 机器学习相关算法入门，平时 Lab 和 Assignment 设计安排还是不错的。期末一个 24 hrs 的卷子相当痛苦而且非常难。
 
-![](UNSW-课程安排/CA8C6710-13AD-4DB3-B067-C984F952E154.jpeg)
+![](CA8C6710-13AD-4DB3-B067-C984F952E154.jpeg)
 
 `COMP9319 Web Data Compression and Search (ADK)`
 看 [unsw.co](https://unsw.co) 上面介绍这门课是公认的难课。上完其实也还好，主要是介绍压缩算法。Assignemnt 是寻找算法时间与空间的平衡，不过因为是纯机评得注意测试代码，不然很有可能拿零分。Final 相当简单几乎是原题。
