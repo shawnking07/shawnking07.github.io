@@ -35,12 +35,15 @@ Python 基础课，科班出身基本不用听闭着眼睛就能 HD。如果是�
 看 [unsw.co](https://unsw.co) 上面介绍这门课是公认的难课。上完其实也还好，主要是介绍压缩算法。Assignemnt 是寻找算法时间与空间的平衡，不过因为是纯机评得注意测试代码，不然很有可能拿零分。Final 相当简单几乎是原题。
 
 `COMP9414 Artificial Intelligence`
-神经网络相关，使用框架 pyTorch。Final 有题库
+介绍一些机器学习 神经网络 强化学习的基本算法，不难属于入门类
 
 ## 2020 Term 3
 
 `COMP9331 Computer network`
+基础课，计算机网络。对面试挺有帮助
 
 `COMP9517 Computer Vision (ADK)`
+这个课挺有意思的，最后的 Project 我用了 Mask-RCNN 来实现 Object Segmentation. 评分其实对 report 的要求比较高
 
 `COMP9444 Neural Networks and Deep Learning (ADK)`
+神经网络相关，使用框架 pyTorch。Final 有题库
