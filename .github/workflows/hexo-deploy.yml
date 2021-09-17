@@ -11,10 +11,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Checkout submodules
         uses: textbook/git-checkout-submodule-action@master
         with:
-          fetch-depth: 0
           remote: true
       - name: Restore last modified time
         run: |
