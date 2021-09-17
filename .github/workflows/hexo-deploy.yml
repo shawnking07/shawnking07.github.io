@@ -14,9 +14,11 @@ jobs:
       - name: Checkout submodules
         uses: textbook/git-checkout-submodule-action@master
         with:
+          fetch-depth: 0
           remote: true
       - name: Restore last modified time
-        run: "git ls-files -z | while read -d '' path; do touch -d \"$(git log -1 --format=\"@%ct\" \"$path\")\" \"$path\"; done"
+        run: |
+          find source -name '*.md' | while read file; do touch -d "$(git log -1 --format="@%ct" "$file")" "$file"; done
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:

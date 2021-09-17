@@ -118,6 +118,6 @@ theme_config:
     license: by-nc-sa
     sidebar: true
     post: true
-auto_excerpt:
-  enable: true
-  length: 100
+  auto_excerpt:
+    enable: true
+    length: 100
