@@ -121,3 +121,7 @@ theme_config:
   auto_excerpt:
     enable: true
     length: 100
+  font:
+    enable: true
+    global:
+      external: 'Open Sans'
