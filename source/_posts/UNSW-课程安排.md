@@ -59,7 +59,6 @@ PostgreSQL 的原理实现 有点难度 有 C/C++ 的要求
 ## 2021 Term 2
 
 `GSOE9820 Project Management`
-
 必修课 没什么用的课，有题库
 
 `COMP9101 Algorithms & Programming Techniques`
