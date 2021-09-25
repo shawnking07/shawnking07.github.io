@@ -27,12 +27,12 @@ Python 基础课，科班出身基本不用听闭着眼睛就能 HD。如果是�
 ## 2020 Term 2
 
 `COMP9417 Machine Learning & Data Mining (💩) (ADK)`
-机器学习相关算法入门，平时 Lab 和 Assignment 设计安排还是不错的。期末一个 24 hrs 的卷子相当痛苦而且非常难。
+机器学习相关算法入门，平时 Lab 和 [Assignment](https://github.com/shawnking07/microsoft-malware-prediction) 设计安排还是不错的。期末一个 24 hrs 的卷子相当痛苦而且非常难。
 
 ![](CA8C6710-13AD-4DB3-B067-C984F952E154.jpeg)
 
-`COMP9319 Web Data Compression and Search (ADK)`
-看 [unsw.co](https://unsw.co) 上面介绍这门课是公认的难课。上完其实也还好，主要是介绍压缩算法。Assignemnt 是寻找算法时间与空间的平衡，不过因为是纯机评得注意测试代码，不然很有可能拿零分。Final 相当简单几乎是原题。
+[`COMP9319 Web Data Compression and Search (ADK)`](https://github.com/shawnking07/comp9319-code-snippet)
+看 [unsw.co](https://unsw.co) 上面介绍这门课是公认的难课。上完其实也还好，主要是介绍压缩算法。[Assignemnt](https://github.com/shawnking07/BWT_implementation) 是寻找算法时间与空间的平衡，不过因为是纯机评得注意测试代码，不然很有可能拿零分。Final 相当简单几乎是原题。
 
 `COMP9414 Artificial Intelligence`
 介绍一些机器学习 神经网络 强化学习的基本算法，不难属于入门类
@@ -43,7 +43,35 @@ Python 基础课，科班出身基本不用听闭着眼睛就能 HD。如果是�
 基础课，计算机网络。对面试挺有帮助
 
 `COMP9517 Computer Vision (ADK)`
-这个课挺有意思的，最后的 Project 我用了 Mask-RCNN 来实现 Object Segmentation. 评分其实对 report 的要求比较高
+这个课挺有意思的，最后的 [Project](https://github.com/shawnking07/plant_detection_cv) 我用了 Mask-RCNN 来实现 Object Segmentation. 评分其实对 report 的要求比较高
 
 `COMP9444 Neural Networks and Deep Learning (ADK)`
 神经网络相关，使用框架 pyTorch。Final 有题库
+
+## 2021 Term 1
+
+`COMP9044 Software Construction`
+写 shell perl 脚本的，涉及一点算法。assignment lab 都比较简单, final 时间比较赶，拿高分比较难
+
+`COMP9315 Database Implementation`
+PostgreSQL 的原理实现 有点难度 有 C/C++ 的要求
+
+## 2021 Term 2
+
+`GSOE9820 Project Management`
+
+必修课 没什么用的课，有题库
+
+`COMP9101 Algorithms & Programming Techniques`
+算法课 常见算法 binary search, DP, maxflow 如果你有刷 leetcode 的习惯，那会相当轻松。用 human language 或者 pseudocode 来描述算法。每两周一个 assignment
+
+## 2021 Term 3
+
+`COMP9900 IT Project`
+
+TODO
+
+`COMP6714 Information Retrieval`
+
+TODO
+
