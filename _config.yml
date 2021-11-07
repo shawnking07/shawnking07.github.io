@@ -125,3 +125,5 @@ theme_config:
     enable: true
     global:
       external: 'Open Sans'
+  utterances:
+    enable: true
