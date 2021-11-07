@@ -1,7 +1,7 @@
 {%- if page.comments %}
 <script src="https://utteranc.es/client.js"
         repo="shawnking07/shawnking07.github.io"
-        issue-term="pathname"
+        issue-term="title"
         label="comment"
         theme="github-light"
         crossorigin="anonymous"
