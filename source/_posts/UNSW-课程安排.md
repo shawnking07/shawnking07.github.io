@@ -68,9 +68,10 @@ PostgreSQL 的原理实现 有点难度 有 C/C++ 的要求
 
 `COMP9900 IT Project`
 
-TODO
+毕业必修课。如果你有前后端经验那会相当的轻松。前提是找到靠谱的队友。
 
 `COMP6714 Information Retrieval`
 
-TODO
+Disclaimer: 远离 Dr. Yifang Sun
 
+TODO
