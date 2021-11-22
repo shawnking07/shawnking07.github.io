@@ -46,7 +46,7 @@ We need some configuration files for Bitwarden.
 
 
 
--  docker-compose.yml
+- docker-compose.yml
 
   ```yaml
   version: '3'
