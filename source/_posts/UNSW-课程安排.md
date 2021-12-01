@@ -1,11 +1,12 @@
 ---
-title: UNSW 课程安排
+title: UNSW 8543 课程安排
 date: 2021-09-12 19:35:41
 tags:
 - UNSW
 ---
 
-2019 年秋季入学，UNSW 开始了他的第一年三学期。在 UNSW Sydney 上了一学期的课之后，就迎上了 COVID-19
+8543 这个 stream 其实非常不适合跨专业的同学，有很大的难度。
+我 2019 年秋季入学，UNSW 第一年实行三学期计划，相当的混乱。在 UNSW Sydney 上了一学期的课之后，就迎上了 COVID-19
 
 ## 2019 Term 3
 
