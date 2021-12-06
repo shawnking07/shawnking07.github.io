@@ -13,6 +13,8 @@ tags:
 
 从 7 月份 22 届秋招提前批开始，陆陆续续经历了十几家的笔试。
 
+<!-- more -->
+
 | **Company**       | **Position**             | **Status** | **Next Deadline** | **Job Description**                                                                                                                                                          | **Comments** |
 |-------------------|--------------------------|------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | AfterPay Shanghai | Software Engineer Intern | Applied    |                   | https://www.linkedin.com/jobs/view/2472125613/?refId=%2BcF1Ry%2B70DJQfUCe9Yzj5A%3D%3D&trackingId=hQQWPYA%2BjHXpMBuVAVaYQQ%3D%3D                                              |              |
