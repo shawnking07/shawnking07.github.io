@@ -127,3 +127,7 @@ theme_config:
       external: 'Open Sans'
   utterances:
     enable: true
+  mermaid:
+    enable: true
+    # Available themes: default | dark | forest | neutral
+    theme: default
