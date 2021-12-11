@@ -73,6 +73,6 @@ PostgreSQL 的原理实现 有点难度 有 C/C++ 的要求
 
 `COMP6714 Information Retrieval`
 
-Disclaimer: 远离 Dr. Yifang Sun
+Disclaimer: 远离 Dr. Yifang Sun. EDIT: 运气不错，final 一半原题
 
-TODO
+## 毕业 🎉
