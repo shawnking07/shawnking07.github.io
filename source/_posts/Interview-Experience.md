@@ -46,10 +46,34 @@ TODO
 
 ## 字节跳动 ByteDance
 
-TODO
+1. leetcode 34 二分查找
+2. hashmap put过程
+3. 二叉搜索树 前序遍历1-2-3
+4. 前序遍历首个为root节点
+5. JVM 内存结构 heap,VM stack, native method stack, Metasapce, direct mem
+
+6. 无序数组判断是否为等差数列 O(n)
 
 ## 蔚来 NIO
 
-TODO
+1. 算法
+
+    换钱的方法数 DP
+
+    二叉树最大路径和, 股票买卖, LRU
+
+2. 八股
+
+    JVM 垃圾回收
+
+    AQS 队列实现
+
+    synchronized 监视器
+
+    http pipeline
+
+    git rebase  docker
 
 ## Microsoft 中国 - STCA
+
+TODO
