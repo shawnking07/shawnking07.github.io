@@ -68,11 +68,9 @@ PostgreSQL 的原理实现 有点难度 有 C/C++ 的要求
 ## 2021 Term 3
 
 `COMP9900 IT Project`
-
 毕业必修课。如果你有前后端经验那会相当的轻松。前提是找到靠谱的队友。
 
 `COMP6714 Information Retrieval`
-
-Disclaimer: 远离 Dr. Yifang Sun. EDIT: 运气不错，final 一半原题
+信息检索相关的课，介绍了一些检索算法。Lab 用的是 Python。Final 有题库
 
 ## 毕业 🎉
