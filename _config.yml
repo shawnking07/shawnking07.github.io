@@ -117,6 +117,15 @@ deploy:
 # Theme
 theme_config:
   scheme: Pisces
+  menu:
+    home: / || fa fa-home
+    about: /about/ || fa fa-user
+    # tags: /tags/ || fa fa-tags
+    # categories: /categories/ || fa fa-th
+    archives: /archives/ || fa fa-archive
+    #schedule: /schedule/ || fa fa-calendar
+    # sitemap: /sitemap.xml || fa fa-sitemap
+    # commonweal: /404/ || fa fa-heartbeat
   creative_commons:
     license: by-nc-sa
     sidebar: true
@@ -133,7 +142,7 @@ theme_config:
   utterances:
     enable: true
     repo: shawnking07/shawnking07.github.io
-    issue-term: pathname
+    issue_term: title
   mermaid:
     enable: true
     # Available themes: default | dark | forest | neutral
