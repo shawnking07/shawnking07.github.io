@@ -128,8 +128,12 @@ theme_config:
     enable: true
     global:
       external: 'Open Sans'
+  comments:
+    active: utterances
   utterances:
     enable: true
+    repo: shawnking07/shawnking07.github.io
+    issue-term: pathname
   mermaid:
     enable: true
     # Available themes: default | dark | forest | neutral
