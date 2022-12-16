@@ -116,6 +116,7 @@ deploy:
 
 # Theme
 theme_config:
+  scheme: Pisces
   creative_commons:
     license: by-nc-sa
     sidebar: true
@@ -133,3 +134,14 @@ theme_config:
     enable: true
     # Available themes: default | dark | forest | neutral
     theme: default
+  social:
+    GitHub: https://github.com/shawnking07 || fab fa-github
+    # E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+    #Weibo: https://weibo.com/yourname || fab fa-weibo
+    #Google: https://plus.google.com/yourname || fab fa-google
+    # Twitter: https://twitter.com/ || fab fa-twitter
+    FB Page: https://www.facebook.com/shawn.jin.710 || fab fa-facebook
+    #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
+    #YouTube: https://youtube.com/yourname || fab fa-youtube
+    Instagram: https://instagram.com/shawnking07 || fab fa-instagram
+    #Skype: skype:yourname?call|chat || fab fa-skype
