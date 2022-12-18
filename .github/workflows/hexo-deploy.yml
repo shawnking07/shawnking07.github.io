@@ -7,6 +7,12 @@ on:
 
 jobs:
   pages:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -18,17 +24,11 @@ jobs:
           find source -name '*.md' | while read file; do touch -d "$(git log -1 --format="@%ct" "$file")" "$file"; done
       - name: Fetch theme
         run: git clone https://github.com/next-theme/hexo-theme-next themes/next
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
+      - name: Use Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: '12.x'
-      - name: Cache NPM dependencies
-        uses: actions/cache@v3
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
+          node-version: '16.x'
+          cache: 'npm'
       - name: Install Dependencies
         run: npm install
       - name: Build
