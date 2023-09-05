@@ -4,8 +4,6 @@ date: 2023-02-01 22:40:57
 tags:
 ---
 
-# Angular vs. React: Key Differences
-
 Angular and React are two of the most popular front-end JavaScript frameworks used for web development. Both have their own unique features and advantages, and choosing between them can be a challenge. In this article, we'll highlight the key differences between Angular and React, to help you make an informed decision.
 
 ## Architecture
